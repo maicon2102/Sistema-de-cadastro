@@ -4,4 +4,4 @@
 
 Para rodar esse projeto, por favor digite:
 ...
-rmp instal reack
+node app.js
